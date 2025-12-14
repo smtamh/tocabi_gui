@@ -80,7 +80,7 @@
               "keys": {
                 "rviz_config_file": {
                   "type": "repr",
-                  "repr": "u'/home/saga/catkin_ws/src/tocabi_gui/config/tocabi_rviz.rviz'"
+                  "repr": "u'/home/smtamh/catkin_ws/src/tocabi/tocabi_gui/config/tocabi_rviz.rviz'"
                 },
                 "hide_menu": {
                   "type": "repr",
