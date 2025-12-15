@@ -2910,27 +2910,27 @@ OFF
       </item>
       <item>
        <property name="text">
-        <string>10. CustomController 1</string>
+        <string>10. (Avatar) CustomController 1</string>
        </property>
       </item>
       <item>
        <property name="text">
-        <string>11. CustomController 2</string>
+        <string>11. (Avatar) CustomController 2</string>
        </property>
       </item>
       <item>
        <property name="text">
-        <string>12. CustomController 3</string>
+        <string>12. (Avatar) CustomController 3</string>
        </property>
       </item>
       <item>
        <property name="text">
-        <string>13. CustomController 4</string>
+        <string>13. (Avatar) CustomController 4</string>
        </property>
       </item>
       <item>
        <property name="text">
-        <string>14. CustomController 5</string>
+        <string>14. (Avatar) CustomController 5</string>
        </property>
       </item>
      </widget>
